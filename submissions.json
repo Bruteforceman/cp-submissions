@@ -277,6 +277,22 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF43257359": {
+    "contest_id": 1045,
+    "language": "GNU C++11",
+    "path": "codeforces/1045/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "AI robots",
+    "problem_url": "https://codeforces.com/contest/1045/problem/G",
+    "submission_id": "CF43257359",
+    "submission_url": "https://codeforces.com/contest/1045/submission/43257359",
+    "tags": [
+      "data structures",
+      "*2200"
+    ],
+    "timestamp": "Sep/22/2018 19:52"
+  },
   "CF43261317": {
     "contest_id": 1045,
     "language": "GNU C++11",
