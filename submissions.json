@@ -277,6 +277,24 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF43501309": {
+    "contest_id": 484,
+    "language": "GNU C++11",
+    "path": "codeforces/484/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Sign on Fence",
+    "problem_url": "https://codeforces.com/contest/484/problem/E",
+    "submission_id": "CF43501309",
+    "submission_url": "https://codeforces.com/contest/484/submission/43501309",
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "data structures",
+      "*2500"
+    ],
+    "timestamp": "Sep/27/2018 23:14"
+  },
   "CF43997573": {
     "contest_id": 1033,
     "language": "GNU C++11",
