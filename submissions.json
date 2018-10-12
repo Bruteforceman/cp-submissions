@@ -277,6 +277,24 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF44178456": {
+    "contest_id": 553,
+    "language": "GNU C++11",
+    "path": "codeforces/553/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Nudist Beach",
+    "problem_url": "https://codeforces.com/contest/553/problem/D",
+    "submission_id": "CF44178456",
+    "submission_url": "https://codeforces.com/contest/553/submission/44178456",
+    "tags": [
+      "binary search",
+      "graphs",
+      "greedy",
+      "*2300"
+    ],
+    "timestamp": "Oct/12/2018 16:01"
+  },
   "CF44872430": {
     "contest_id": 1073,
     "language": "GNU C++11",
