@@ -277,6 +277,22 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF44910434": {
+    "contest_id": 1025,
+    "language": "GNU C++11",
+    "path": "codeforces/1025/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Disjoint Triangles",
+    "problem_url": "https://codeforces.com/contest/1025/problem/F",
+    "submission_id": "CF44910434",
+    "submission_url": "https://codeforces.com/contest/1025/submission/44910434",
+    "tags": [
+      "geometry",
+      "*2700"
+    ],
+    "timestamp": "Oct/26/2018 19:16"
+  },
   "CF45012315": {
     "contest_id": 1043,
     "language": "GNU C++11",
