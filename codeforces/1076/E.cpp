@@ -24,7 +24,7 @@ long long query(int x) {
 void dfs(int x, int par, int dep) {
 	for(auto i : v[x]) {
 		update(dep, i.first);
-		if(dep + i.second + 1 <= n) update(dep + i.second + 1, -i.first);
+		update(dep + i.second + 1, -i.first);
 	}
 	ans[x] = query(dep);
 	for(auto i : g[x]) {
@@ -34,7 +34,7 @@ void dfs(int x, int par, int dep) {
 	}
 	for(auto i : v[x]) {
 		update(dep, -i.first);
-		if(dep + i.second + 1 <= n) update(dep + i.second + 1, i.first);
+		update(dep + i.second + 1, i.first);
 	}
 }
 
