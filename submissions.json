@@ -277,6 +277,23 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF45595856": {
+    "contest_id": 1076,
+    "language": "GNU C++11",
+    "path": "codeforces/1076/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Minimizing the String",
+    "problem_url": "https://codeforces.com/contest/1076/problem/A",
+    "submission_id": "CF45595856",
+    "submission_url": "https://codeforces.com/contest/1076/submission/45595856",
+    "tags": [
+      "greedy",
+      "strings",
+      "*1200"
+    ],
+    "timestamp": "Nov/12/2018 20:40"
+  },
   "CF45599163": {
     "contest_id": 1076,
     "language": "GNU C++11",
