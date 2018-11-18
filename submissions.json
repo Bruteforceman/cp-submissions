@@ -277,6 +277,25 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF45930022": {
+    "contest_id": 1078,
+    "language": "GNU C++11",
+    "path": "codeforces/1078/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Barcelonian Distance",
+    "problem_url": "https://codeforces.com/contest/1078/problem/A",
+    "submission_id": "CF45930022",
+    "submission_url": "https://codeforces.com/contest/1078/submission/45930022",
+    "tags": [
+      "geometry",
+      "implementation",
+      "math",
+      "shortest paths",
+      "*1900"
+    ],
+    "timestamp": "Nov/18/2018 22:59"
+  },
   "CF45960399": {
     "contest_id": 1078,
     "language": "GNU C++11",
