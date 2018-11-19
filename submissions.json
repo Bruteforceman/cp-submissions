@@ -277,6 +277,23 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF45960399": {
+    "contest_id": 1078,
+    "language": "GNU C++11",
+    "path": "codeforces/1078/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "The Unbearable Lightness of Weights",
+    "problem_url": "https://codeforces.com/contest/1078/problem/B",
+    "submission_id": "CF45960399",
+    "submission_url": "https://codeforces.com/contest/1078/submission/45960399",
+    "tags": [
+      "dp",
+      "math",
+      "*2100"
+    ],
+    "timestamp": "Nov/19/2018 17:23"
+  },
   "CF46036528": {
     "contest_id": 1038,
     "language": "GNU C++11",
