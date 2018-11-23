@@ -277,6 +277,26 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF46114081": {
+    "contest_id": 314,
+    "language": "GNU C++11",
+    "path": "codeforces/314/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Sereja and Straight Lines",
+    "problem_url": "https://codeforces.com/contest/314/problem/D",
+    "submission_id": "CF46114081",
+    "submission_url": "https://codeforces.com/contest/314/submission/46114081",
+    "tags": [
+      "binary search",
+      "data structures",
+      "geometry",
+      "sortings",
+      "two pointers",
+      "*2500"
+    ],
+    "timestamp": "Nov/23/2018 19:08"
+  },
   "CF46161509": {
     "contest_id": 1080,
     "language": "GNU C++11",
