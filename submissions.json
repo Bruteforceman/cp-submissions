@@ -277,6 +277,24 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF46328553": {
+    "contest_id": 1082,
+    "language": "GNU C++11",
+    "path": "codeforces/1082/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Speed Dial",
+    "problem_url": "https://codeforces.com/contest/1082/problem/F",
+    "submission_id": "CF46328553",
+    "submission_url": "https://codeforces.com/contest/1082/submission/46328553",
+    "tags": [
+      "dp",
+      "strings",
+      "trees",
+      "*2800"
+    ],
+    "timestamp": "Nov/28/2018 21:36"
+  },
   "CF46334031": {
     "contest_id": 1082,
     "language": "GNU C++11",
