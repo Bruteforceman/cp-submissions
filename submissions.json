@@ -277,6 +277,22 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF46505323": {
+    "contest_id": 1089,
+    "language": "Java 8",
+    "path": "codeforces/1089/K.java",
+    "platform": "Codeforces",
+    "problem_index": "K",
+    "problem_name": "King Kog's Reception",
+    "problem_url": "https://codeforces.com/contest/1089/problem/K",
+    "submission_id": "CF46505323",
+    "submission_url": "https://codeforces.com/contest/1089/submission/46505323",
+    "tags": [
+      "data structures",
+      "*2400"
+    ],
+    "timestamp": "Dec/02/2018 17:01"
+  },
   "CF46793198": {
     "contest_id": 1090,
     "language": "Java 8",
