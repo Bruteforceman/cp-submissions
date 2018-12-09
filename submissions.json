@@ -277,6 +277,22 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF46793198": {
+    "contest_id": 1090,
+    "language": "Java 8",
+    "path": "codeforces/1090/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Company Merging",
+    "problem_url": "https://codeforces.com/contest/1090/problem/A",
+    "submission_id": "CF46793198",
+    "submission_url": "https://codeforces.com/contest/1090/submission/46793198",
+    "tags": [
+      "greedy",
+      "*1300"
+    ],
+    "timestamp": "Dec/09/2018 14:55"
+  },
   "CF46875386": {
     "contest_id": 1083,
     "language": "GNU C++11",
