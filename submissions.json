@@ -277,6 +277,24 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF47133760": {
+    "contest_id": 1081,
+    "language": "GNU C++11",
+    "path": "codeforces/1081/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Tricky Interactor",
+    "problem_url": "https://codeforces.com/contest/1081/problem/F",
+    "submission_id": "CF47133760",
+    "submission_url": "https://codeforces.com/contest/1081/submission/47133760",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "interactive",
+      "*2600"
+    ],
+    "timestamp": "Dec/16/2018 22:44"
+  },
   "CF47134155": {
     "contest_id": 1081,
     "language": "GNU C++11",
