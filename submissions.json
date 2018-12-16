@@ -277,6 +277,23 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF47134155": {
+    "contest_id": 1081,
+    "language": "GNU C++11",
+    "path": "codeforces/1081/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Definite Game",
+    "problem_url": "https://codeforces.com/contest/1081/problem/A",
+    "submission_id": "CF47134155",
+    "submission_url": "https://codeforces.com/contest/1081/submission/47134155",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Dec/16/2018 22:47"
+  },
   "CF47136078": {
     "contest_id": 1081,
     "language": "GNU C++11",
