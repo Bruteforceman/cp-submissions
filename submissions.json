@@ -277,6 +277,22 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF47572187": {
+    "contest_id": 1095,
+    "language": "Java 8",
+    "path": "codeforces/1095/D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Circular Dance",
+    "problem_url": "https://codeforces.com/contest/1095/problem/D",
+    "submission_id": "CF47572187",
+    "submission_url": "https://codeforces.com/contest/1095/submission/47572187",
+    "tags": [
+      "implementation",
+      "*1600"
+    ],
+    "timestamp": "Dec/27/2018 21:20"
+  },
   "CF47575709": {
     "contest_id": 1095,
     "language": "Java 8",
