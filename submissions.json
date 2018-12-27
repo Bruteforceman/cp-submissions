@@ -277,6 +277,23 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF47567668": {
+    "contest_id": 1095,
+    "language": "Java 8",
+    "path": "codeforces/1095/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Powers Of Two",
+    "problem_url": "https://codeforces.com/contest/1095/problem/C",
+    "submission_id": "CF47567668",
+    "submission_url": "https://codeforces.com/contest/1095/submission/47567668",
+    "tags": [
+      "bitmasks",
+      "greedy",
+      "*1400"
+    ],
+    "timestamp": "Dec/27/2018 21:04"
+  },
   "CF47572187": {
     "contest_id": 1095,
     "language": "Java 8",
