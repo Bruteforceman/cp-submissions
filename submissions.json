@@ -277,6 +277,22 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF47575709": {
+    "contest_id": 1095,
+    "language": "Java 8",
+    "path": "codeforces/1095/E.java",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Almost Regular Bracket Sequence",
+    "problem_url": "https://codeforces.com/contest/1095/problem/E",
+    "submission_id": "CF47575709",
+    "submission_url": "https://codeforces.com/contest/1095/submission/47575709",
+    "tags": [
+      "implementation",
+      "*1900"
+    ],
+    "timestamp": "Dec/27/2018 21:33"
+  },
   "CF47579014": {
     "contest_id": 1095,
     "language": "Java 8",
