@@ -277,6 +277,24 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF47579014": {
+    "contest_id": 1095,
+    "language": "Java 8",
+    "path": "codeforces/1095/F.java",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Make It Connected",
+    "problem_url": "https://codeforces.com/contest/1095/problem/F",
+    "submission_id": "CF47579014",
+    "submission_url": "https://codeforces.com/contest/1095/submission/47579014",
+    "tags": [
+      "dsu",
+      "graphs",
+      "greedy",
+      "*1900"
+    ],
+    "timestamp": "Dec/27/2018 21:46"
+  },
   "CF47625671": {
     "contest_id": 1096,
     "language": "GNU C++11",
