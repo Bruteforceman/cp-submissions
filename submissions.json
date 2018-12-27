@@ -277,6 +277,22 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF47563020": {
+    "contest_id": 1095,
+    "language": "Java 8",
+    "path": "codeforces/1095/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Array Stabilization",
+    "problem_url": "https://codeforces.com/contest/1095/problem/B",
+    "submission_id": "CF47563020",
+    "submission_url": "https://codeforces.com/contest/1095/submission/47563020",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Dec/27/2018 20:52"
+  },
   "CF47567668": {
     "contest_id": 1095,
     "language": "Java 8",
