@@ -277,6 +277,24 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF47631436": {
+    "contest_id": 1096,
+    "language": "GNU C++11",
+    "path": "codeforces/1096/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Substring Removal",
+    "problem_url": "https://codeforces.com/contest/1096/problem/B",
+    "submission_id": "CF47631436",
+    "submission_url": "https://codeforces.com/contest/1096/submission/47631436",
+    "tags": [
+      "combinatorics",
+      "math",
+      "strings",
+      "*1300"
+    ],
+    "timestamp": "Dec/28/2018 20:49"
+  },
   "CF47637042": {
     "contest_id": 1096,
     "language": "GNU C++11",
