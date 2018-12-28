@@ -277,6 +277,24 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF47650027": {
+    "contest_id": 1096,
+    "language": "GNU C++11",
+    "path": "codeforces/1096/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Inversion Expectation",
+    "problem_url": "https://codeforces.com/contest/1096/problem/F",
+    "submission_id": "CF47650027",
+    "submission_url": "https://codeforces.com/contest/1096/submission/47650027",
+    "tags": [
+      "dp",
+      "math",
+      "probabilities",
+      "*2300"
+    ],
+    "timestamp": "Dec/28/2018 22:11"
+  },
   "CF47652453": {
     "contest_id": 1096,
     "language": "GNU C++11",
