@@ -277,6 +277,26 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF50022194": {
+    "contest_id": 1109,
+    "language": "GNU C++11",
+    "path": "codeforces/1109/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Sasha and Interesting Fact from Graph Theory",
+    "problem_url": "https://codeforces.com/contest/1109/problem/D",
+    "submission_id": "CF50022194",
+    "submission_url": "https://codeforces.com/contest/1109/submission/50022194",
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "dp",
+      "math",
+      "trees",
+      "*2400"
+    ],
+    "timestamp": "Feb/16/2019 23:55"
+  },
   "CF50024071": {
     "contest_id": 1109,
     "language": "GNU C++11",
