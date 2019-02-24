@@ -277,6 +277,23 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF50444454": {
+    "contest_id": 1129,
+    "language": "GNU C++11",
+    "path": "codeforces/1129/A2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A2",
+    "problem_name": "Toy Train",
+    "problem_url": "https://codeforces.com/contest/1129/problem/A2",
+    "submission_id": "CF50444454",
+    "submission_url": "https://codeforces.com/contest/1129/submission/50444454",
+    "tags": [
+      "brute force",
+      "greedy",
+      "*1800"
+    ],
+    "timestamp": "Feb/24/2019 22:07"
+  },
   "CF50449770": {
     "contest_id": 1129,
     "language": "GNU C++11",
