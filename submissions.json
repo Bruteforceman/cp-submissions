@@ -277,6 +277,24 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF51046461": {
+    "contest_id": 1137,
+    "language": "GNU C++11",
+    "path": "codeforces/1137/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Museums Tour",
+    "problem_url": "https://codeforces.com/contest/1137/problem/C",
+    "submission_id": "CF51046461",
+    "submission_url": "https://codeforces.com/contest/1137/submission/51046461",
+    "tags": [
+      "dp",
+      "graphs",
+      "implementation",
+      "*2500"
+    ],
+    "timestamp": "Mar/09/2019 00:54"
+  },
   "CF51184326": {
     "contest_id": 1136,
     "language": "GNU C++11",
