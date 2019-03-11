@@ -277,6 +277,22 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF51193265": {
+    "contest_id": 1136,
+    "language": "GNU C++11",
+    "path": "codeforces/1136/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Nastya Is Buying Lunch",
+    "problem_url": "https://codeforces.com/contest/1136/problem/D",
+    "submission_id": "CF51193265",
+    "submission_url": "https://codeforces.com/contest/1136/submission/51193265",
+    "tags": [
+      "greedy",
+      "*1800"
+    ],
+    "timestamp": "Mar/12/2019 00:20"
+  },
   "CF52298037": {
     "contest_id": 1142,
     "language": "GNU C++11",
