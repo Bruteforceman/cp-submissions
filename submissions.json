@@ -277,6 +277,23 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF51184326": {
+    "contest_id": 1136,
+    "language": "GNU C++11",
+    "path": "codeforces/1136/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Nastya Hasn't Written a Legend",
+    "problem_url": "https://codeforces.com/contest/1136/problem/E",
+    "submission_id": "CF51184326",
+    "submission_url": "https://codeforces.com/contest/1136/submission/51184326",
+    "tags": [
+      "binary search",
+      "data structures",
+      "*2200"
+    ],
+    "timestamp": "Mar/11/2019 23:21"
+  },
   "CF51185366": {
     "contest_id": 1136,
     "language": "GNU C++11",
