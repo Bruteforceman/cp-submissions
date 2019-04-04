@@ -277,6 +277,26 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF52298037": {
+    "contest_id": 1142,
+    "language": "GNU C++11",
+    "path": "codeforces/1142/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Lynyrd Skynyrd",
+    "problem_url": "https://codeforces.com/contest/1142/problem/B",
+    "submission_id": "CF52298037",
+    "submission_url": "https://codeforces.com/contest/1142/submission/52298037",
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "dp",
+      "math",
+      "trees",
+      "*2000"
+    ],
+    "timestamp": "Apr/04/2019 13:22"
+  },
   "CF53253050": {
     "contest_id": 1152,
     "language": "GNU C++11",
