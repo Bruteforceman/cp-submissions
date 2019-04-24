@@ -277,6 +277,24 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF53253050": {
+    "contest_id": 1152,
+    "language": "GNU C++11",
+    "path": "codeforces/1152/F1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F1",
+    "problem_name": "Neko Rules the Catniverse (Small Version)",
+    "problem_url": "https://codeforces.com/contest/1152/problem/F1",
+    "submission_id": "CF53253050",
+    "submission_url": "https://codeforces.com/contest/1152/submission/53253050",
+    "tags": [
+      "bitmasks",
+      "dp",
+      "matrices",
+      "*2800"
+    ],
+    "timestamp": "Apr/24/2019 22:22"
+  },
   "CF53254890": {
     "contest_id": 1152,
     "language": "GNU C++11",
