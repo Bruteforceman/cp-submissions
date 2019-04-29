@@ -277,6 +277,24 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF53522403": {
+    "contest_id": 1149,
+    "language": "GNU C++11",
+    "path": "codeforces/1149/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Tree Generator\u2122",
+    "problem_url": "https://codeforces.com/contest/1149/problem/C",
+    "submission_id": "CF53522403",
+    "submission_url": "https://codeforces.com/contest/1149/submission/53522403",
+    "tags": [
+      "data structures",
+      "implementation",
+      "trees",
+      "*2700"
+    ],
+    "timestamp": "Apr/29/2019 21:58"
+  },
   "CF53667188": {
     "contest_id": 798,
     "language": "Java 8",
