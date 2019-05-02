@@ -277,6 +277,22 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF53679863": {
+    "contest_id": 1031,
+    "language": "Java 8",
+    "path": "codeforces/1031/E.java",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Triple Flips",
+    "problem_url": "https://codeforces.com/contest/1031/problem/E",
+    "submission_id": "CF53679863",
+    "submission_url": "https://codeforces.com/contest/1031/submission/53679863",
+    "tags": [
+      "constructive algorithms",
+      "*2600"
+    ],
+    "timestamp": "May/03/2019 00:25"
+  },
   "CF53684414": {
     "contest_id": 341,
     "language": "Java 8",
