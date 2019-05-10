@@ -277,6 +277,24 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF53944577": {
+    "contest_id": 1163,
+    "language": "Java 8",
+    "path": "codeforces/1163/F.java",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Indecisive Taxi Fee",
+    "problem_url": "https://codeforces.com/contest/1163/problem/F",
+    "submission_id": "CF53944577",
+    "submission_url": "https://codeforces.com/contest/1163/submission/53944577",
+    "tags": [
+      "data structures",
+      "graphs",
+      "shortest paths",
+      "*3000"
+    ],
+    "timestamp": "May/10/2019 11:47"
+  },
   "CF54035506": {
     "contest_id": 1158,
     "language": "GNU C++14",
