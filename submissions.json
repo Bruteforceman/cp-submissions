@@ -277,6 +277,23 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF54675892": {
+    "contest_id": 1168,
+    "language": "GNU C++11",
+    "path": "codeforces/1168/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "And Reachability",
+    "problem_url": "https://codeforces.com/contest/1168/problem/C",
+    "submission_id": "CF54675892",
+    "submission_url": "https://codeforces.com/contest/1168/submission/54675892",
+    "tags": [
+      "bitmasks",
+      "dp",
+      "*2200"
+    ],
+    "timestamp": "May/26/2019 21:56"
+  },
   "CF54678756": {
     "contest_id": 1168,
     "language": "GNU C++11",
