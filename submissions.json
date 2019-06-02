@@ -277,6 +277,23 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF54976168": {
+    "contest_id": 1148,
+    "language": "GNU C++11",
+    "path": "codeforces/1148/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Dirty Deeds Done Dirt Cheap",
+    "problem_url": "https://codeforces.com/contest/1148/problem/D",
+    "submission_id": "CF54976168",
+    "submission_url": "https://codeforces.com/contest/1148/submission/54976168",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*1800"
+    ],
+    "timestamp": "Jun/02/2019 16:56"
+  },
   "CF54976378": {
     "contest_id": 1148,
     "language": "GNU C++11",
