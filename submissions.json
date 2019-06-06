@@ -277,6 +277,23 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF55199313": {
+    "contest_id": 1148,
+    "language": "GNU C++11",
+    "path": "codeforces/1148/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Foo Fighters",
+    "problem_url": "https://codeforces.com/contest/1148/problem/F",
+    "submission_id": "CF55199313",
+    "submission_url": "https://codeforces.com/contest/1148/submission/55199313",
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "*2700"
+    ],
+    "timestamp": "Jun/06/2019 15:53"
+  },
   "CF55629879": {
     "contest_id": 1181,
     "language": "GNU C++11",
