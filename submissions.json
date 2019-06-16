@@ -277,6 +277,24 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF55629879": {
+    "contest_id": 1181,
+    "language": "GNU C++11",
+    "path": "codeforces/1181/E1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E1",
+    "problem_name": "A Story of One Country (Easy)",
+    "problem_url": "https://codeforces.com/contest/1181/problem/E1",
+    "submission_id": "CF55629879",
+    "submission_url": "https://codeforces.com/contest/1181/submission/55629879",
+    "tags": [
+      "brute force",
+      "divide and conquer",
+      "sortings",
+      "*2500"
+    ],
+    "timestamp": "Jun/16/2019 16:16"
+  },
   "CF56222017": {
     "contest_id": 1186,
     "language": "GNU C++11",
