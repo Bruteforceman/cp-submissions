@@ -277,6 +277,25 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF56222017": {
+    "contest_id": 1186,
+    "language": "GNU C++11",
+    "path": "codeforces/1186/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Vus the Cossack and a Graph",
+    "problem_url": "https://codeforces.com/contest/1186/problem/F",
+    "submission_id": "CF56222017",
+    "submission_url": "https://codeforces.com/contest/1186/submission/56222017",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "implementation",
+      "*2400"
+    ],
+    "timestamp": "Jun/28/2019 16:25"
+  },
   "CF56658733": {
     "contest_id": 1184,
     "language": "GNU C++11",
