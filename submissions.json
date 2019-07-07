@@ -277,6 +277,23 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF56658733": {
+    "contest_id": 1184,
+    "language": "GNU C++11",
+    "path": "codeforces/1184/B3.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B3",
+    "problem_name": "The Doctor Meets Vader (Hard)",
+    "problem_url": "https://codeforces.com/contest/1184/problem/B3",
+    "submission_id": "CF56658733",
+    "submission_url": "https://codeforces.com/contest/1184/submission/56658733",
+    "tags": [
+      "flows",
+      "shortest paths",
+      "*2700"
+    ],
+    "timestamp": "Jul/07/2019 15:16"
+  },
   "CF56661352": {
     "contest_id": 1184,
     "language": "GNU C++11",
