@@ -277,6 +277,22 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF56667072": {
+    "contest_id": 1184,
+    "language": "GNU C++11",
+    "path": "codeforces/1184/C2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C2",
+    "problem_name": "Heidi and the Turing Test (Medium)",
+    "problem_url": "https://codeforces.com/contest/1184/problem/C2",
+    "submission_id": "CF56667072",
+    "submission_url": "https://codeforces.com/contest/1184/submission/56667072",
+    "tags": [
+      "data structures",
+      "*2200"
+    ],
+    "timestamp": "Jul/07/2019 17:29"
+  },
   "CF57757534": {
     "contest_id": 1192,
     "language": "GNU C++11",
