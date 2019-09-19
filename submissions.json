@@ -277,6 +277,23 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF60846795": {
+    "contest_id": 1220,
+    "language": "GNU C++11",
+    "path": "codeforces/1220/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Gardener Alex",
+    "problem_url": "https://codeforces.com/contest/1220/problem/F",
+    "submission_id": "CF60846795",
+    "submission_url": "https://codeforces.com/contest/1220/submission/60846795",
+    "tags": [
+      "binary search",
+      "data structures",
+      "*2700"
+    ],
+    "timestamp": "Sep/19/2019 18:48"
+  },
   "CF62123916": {
     "contest_id": 1238,
     "language": "GNU C++11",
