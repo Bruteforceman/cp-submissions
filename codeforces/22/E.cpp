@@ -31,7 +31,7 @@ int main(int argc, char const *argv[])
 			root[x] = root[cur];
 		}
 	}
-	vector <int> nxt (n + 1, 0);
+	map <int, int> nxt;
 	for(int i = 0; i < v.size(); i++) {
 		nxt[v[i]] = v[(i + 1) % v.size()];
 	} 
