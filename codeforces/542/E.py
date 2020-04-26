@@ -24,8 +24,9 @@ def shortest(root):
             elif dist[i] == dist[x]:
                 good = False 
     far = 0
-    for i in dist:
-        if i > far: far = i
+    for i in dist: 
+        if far < i:
+            far = i
     return good, far, dist
 
 arr = [0] * n
@@ -33,10 +34,9 @@ good = True
 for i in range(n):
     _, opt, dist = shortest(i)
     if _ is False: good = False
-    if comp[i] is -1: 
-        for j in range(n):
-            if dist[j] is not -1:
-                comp[j] = i
+    if comp[i] is -1:
+        for j in range(n): 
+            if dist[j] is not -1: comp[j] = i
     if arr[comp[i]] < opt: 
         arr[comp[i]] = opt
 
