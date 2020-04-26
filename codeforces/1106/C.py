@@ -19,8 +19,7 @@ def rangeSort(arr, l, r, func):
 
 n = int(input())
 a = [int(x) for x in input().split()]
-# rangeSort(a, 0, len(a), func)
-a.sort()
+rangeSort(a, 0, len(a), func)
 ans = 0
 for i in range(n >> 1):
     ans = ans + (a[i] + a[n - i - 1]) * (a[i] + a[n - i - 1])
