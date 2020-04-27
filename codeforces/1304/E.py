@@ -58,8 +58,6 @@ def query(a, b, x, y, k):
     return 'NO'
 
 q = int(input())
-res = []
 for i in range(q):
     x, y, a, b, k = map(int, input().split())
-    res.append(query(x - 1, y - 1, a - 1, b - 1, k))
-print('\n'.join(res))
+    print(query(x - 1, y - 1, a - 1, b - 1, k))

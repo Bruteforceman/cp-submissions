@@ -2845,6 +2845,25 @@
     ],
     "timestamp": "Oct/08/2019 21:05"
   },
+  "CF78314671": {
+    "contest_id": 1304,
+    "language": "PyPy 3",
+    "path": "codeforces/1304/E.py",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "1-Trees and Queries",
+    "problem_url": "https://codeforces.com/contest/1304/problem/E",
+    "submission_id": "CF78314671",
+    "submission_url": "https://codeforces.com/contest/1304/submission/78314671",
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "shortest paths",
+      "trees",
+      "*2000"
+    ],
+    "timestamp": "Apr/27/2020 23:05"
+  },
   "CF78314917": {
     "contest_id": 1304,
     "language": "PyPy 3",
