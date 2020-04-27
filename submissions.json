@@ -2845,6 +2845,24 @@
     ],
     "timestamp": "Oct/08/2019 21:05"
   },
+  "CF78335151": {
+    "contest_id": 1305,
+    "language": "PyPy 3",
+    "path": "codeforces/1305/F.py",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Kuroni and the Punishment",
+    "problem_url": "https://codeforces.com/contest/1305/problem/F",
+    "submission_id": "CF78335151",
+    "submission_url": "https://codeforces.com/contest/1305/submission/78335151",
+    "tags": [
+      "math",
+      "number theory",
+      "probabilities",
+      "*2500"
+    ],
+    "timestamp": "Apr/28/2020 05:00"
+  },
   "CF78456564": {
     "contest_id": 348,
     "language": "Java 8",
