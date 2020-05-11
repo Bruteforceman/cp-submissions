@@ -2845,6 +2845,26 @@
     ],
     "timestamp": "Oct/08/2019 21:05"
   },
+  "CF79784965": {
+    "contest_id": 1267,
+    "language": "GNU C++17",
+    "path": "codeforces/1267/I.cpp",
+    "platform": "Codeforces",
+    "problem_index": "I",
+    "problem_name": "Intriguing Selection",
+    "problem_url": "https://codeforces.com/contest/1267/problem/I",
+    "submission_id": "CF79784965",
+    "submission_url": "https://codeforces.com/contest/1267/submission/79784965",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "implementation",
+      "interactive",
+      "sortings",
+      "*2600"
+    ],
+    "timestamp": "May/12/2020 03:46"
+  },
   "CF79835385": {
     "contest_id": 1349,
     "language": "GNU C++17",
