@@ -2845,6 +2845,24 @@
     ],
     "timestamp": "Oct/08/2019 21:05"
   },
+  "CF81781856": {
+    "contest_id": 1359,
+    "language": "PyPy 3",
+    "path": "codeforces/1359/E.py",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Modular Stability",
+    "problem_url": "https://codeforces.com/contest/1359/problem/E",
+    "submission_id": "CF81781856",
+    "submission_url": "https://codeforces.com/contest/1359/submission/81781856",
+    "tags": [
+      "combinatorics",
+      "math",
+      "number theory",
+      "*2000"
+    ],
+    "timestamp": "May/28/2020 22:05"
+  },
   "CF81793487": {
     "contest_id": 1359,
     "language": "GNU C++11",
