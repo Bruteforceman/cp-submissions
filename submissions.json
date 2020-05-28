@@ -2845,6 +2845,26 @@
     ],
     "timestamp": "Oct/08/2019 21:05"
   },
+  "CF81732851": {
+    "contest_id": 1359,
+    "language": "PyPy 3",
+    "path": "codeforces/1359/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "New Theatre Square",
+    "problem_url": "https://codeforces.com/contest/1359/problem/B",
+    "submission_id": "CF81732851",
+    "submission_url": "https://codeforces.com/contest/1359/submission/81732851",
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "implementation",
+      "two pointers",
+      "*1000"
+    ],
+    "timestamp": "May/28/2020 20:56"
+  },
   "CF81781856": {
     "contest_id": 1359,
     "language": "PyPy 3",
