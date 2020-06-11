@@ -277,6 +277,27 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF83478571": {
+    "contest_id": 1366,
+    "language": "PyPy 3",
+    "path": "codeforces/1366/E.py",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Two Arrays",
+    "problem_url": "https://codeforces.com/contest/1366/problem/E",
+    "submission_id": "CF83478571",
+    "submission_url": "https://codeforces.com/contest/1366/submission/83478571",
+    "tags": [
+      "binary search",
+      "brute force",
+      "combinatorics",
+      "constructive algorithms",
+      "dp",
+      "two pointers",
+      "*2100"
+    ],
+    "timestamp": "Jun/12/2020 01:44"
+  },
   "CF83565724": {
     "contest_id": 1365,
     "language": "PyPy 3",
