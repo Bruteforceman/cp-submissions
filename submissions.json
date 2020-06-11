@@ -277,6 +277,23 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF83459488": {
+    "contest_id": 1366,
+    "language": "PyPy 3",
+    "path": "codeforces/1366/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Palindromic Paths",
+    "problem_url": "https://codeforces.com/contest/1366/problem/C",
+    "submission_id": "CF83459488",
+    "submission_url": "https://codeforces.com/contest/1366/submission/83459488",
+    "tags": [
+      "greedy",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "Jun/11/2020 22:33"
+  },
   "CF83473812": {
     "contest_id": 1366,
     "language": "PyPy 3",
