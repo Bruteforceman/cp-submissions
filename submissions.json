@@ -277,6 +277,25 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF83450097": {
+    "contest_id": 1366,
+    "language": "GNU C++11",
+    "path": "codeforces/1366/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Jog Around The Graph",
+    "problem_url": "https://codeforces.com/contest/1366/problem/F",
+    "submission_id": "CF83450097",
+    "submission_url": "https://codeforces.com/contest/1366/submission/83450097",
+    "tags": [
+      "binary search",
+      "dp",
+      "geometry",
+      "graphs",
+      "*2700"
+    ],
+    "timestamp": "Jun/11/2020 22:16"
+  },
   "CF83453498": {
     "contest_id": 1366,
     "language": "PyPy 3",
