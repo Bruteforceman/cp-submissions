@@ -277,6 +277,24 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF83566550": {
+    "contest_id": 1365,
+    "language": "PyPy 3",
+    "path": "codeforces/1365/F.py",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Swaps Again",
+    "problem_url": "https://codeforces.com/contest/1365/problem/F",
+    "submission_id": "CF83566550",
+    "submission_url": "https://codeforces.com/contest/1365/submission/83566550",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "sortings",
+      "*2100"
+    ],
+    "timestamp": "Jun/13/2020 04:30"
+  },
   "CF83566733": {
     "contest_id": 1365,
     "language": "PyPy 3",
