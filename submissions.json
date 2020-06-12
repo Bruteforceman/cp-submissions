@@ -277,6 +277,26 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF83565724": {
+    "contest_id": 1365,
+    "language": "PyPy 3",
+    "path": "codeforces/1365/G.py",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Secure Password",
+    "problem_url": "https://codeforces.com/contest/1365/problem/G",
+    "submission_id": "CF83565724",
+    "submission_url": "https://codeforces.com/contest/1365/submission/83565724",
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "constructive algorithms",
+      "interactive",
+      "math",
+      "*2800"
+    ],
+    "timestamp": "Jun/13/2020 03:59"
+  },
   "CF83566550": {
     "contest_id": 1365,
     "language": "PyPy 3",
