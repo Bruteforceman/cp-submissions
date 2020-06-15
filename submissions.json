@@ -277,6 +277,26 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF83881249": {
+    "contest_id": 576,
+    "language": "GNU C++11",
+    "path": "codeforces/576/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Points on Plane",
+    "problem_url": "https://codeforces.com/contest/576/problem/C",
+    "submission_id": "CF83881249",
+    "submission_url": "https://codeforces.com/contest/576/submission/83881249",
+    "tags": [
+      "constructive algorithms",
+      "divide and conquer",
+      "geometry",
+      "greedy",
+      "sortings",
+      "*2100"
+    ],
+    "timestamp": "Jun/16/2020 05:23"
+  },
   "CF83881388": {
     "contest_id": 1305,
     "language": "GNU C++11",
