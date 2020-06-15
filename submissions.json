@@ -277,6 +277,27 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF83879932": {
+    "contest_id": 1254,
+    "language": "PyPy 3",
+    "path": "codeforces/1254/B1.py",
+    "platform": "Codeforces",
+    "problem_index": "B1",
+    "problem_name": "Send Boxes to Alice (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/1254/problem/B1",
+    "submission_id": "CF83879932",
+    "submission_url": "https://codeforces.com/contest/1254/submission/83879932",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "number theory",
+      "ternary search",
+      "two pointers",
+      "*1800"
+    ],
+    "timestamp": "Jun/16/2020 04:22"
+  },
   "CF83880838": {
     "contest_id": 1166,
     "language": "PyPy 3",
