@@ -277,6 +277,25 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF83865086": {
+    "contest_id": 675,
+    "language": "PyPy 3",
+    "path": "codeforces/675/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Money Transfers",
+    "problem_url": "https://codeforces.com/contest/675/problem/C",
+    "submission_id": "CF83865086",
+    "submission_url": "https://codeforces.com/contest/675/submission/83865086",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "sortings",
+      "*2100"
+    ],
+    "timestamp": "Jun/15/2020 23:22"
+  },
   "CF83874843": {
     "contest_id": 763,
     "language": "PyPy 3",
