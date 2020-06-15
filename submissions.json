@@ -277,6 +277,27 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF83862601": {
+    "contest_id": 796,
+    "language": "PyPy 3",
+    "path": "codeforces/796/D.py",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Police Stations",
+    "problem_url": "https://codeforces.com/contest/796/problem/D",
+    "submission_id": "CF83862601",
+    "submission_url": "https://codeforces.com/contest/796/submission/83862601",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "shortest paths",
+      "trees",
+      "*2100"
+    ],
+    "timestamp": "Jun/15/2020 22:49"
+  },
   "CF83865086": {
     "contest_id": 675,
     "language": "PyPy 3",
