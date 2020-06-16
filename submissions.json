@@ -277,6 +277,26 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF83909642": {
+    "contest_id": 1296,
+    "language": "PyPy 3",
+    "path": "codeforces/1296/F.py",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Berland Beauty",
+    "problem_url": "https://codeforces.com/contest/1296/problem/F",
+    "submission_id": "CF83909642",
+    "submission_url": "https://codeforces.com/contest/1296/submission/83909642",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "greedy",
+      "sortings",
+      "trees",
+      "*2100"
+    ],
+    "timestamp": "Jun/16/2020 15:56"
+  },
   "CF83913966": {
     "contest_id": 780,
     "language": "GNU C++11",
