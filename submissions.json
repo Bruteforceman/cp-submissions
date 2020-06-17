@@ -277,6 +277,26 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF84072579": {
+    "contest_id": 612,
+    "language": "PyPy 3",
+    "path": "codeforces/612/E.py",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Square Root of Permutation",
+    "problem_url": "https://codeforces.com/contest/612/problem/E",
+    "submission_id": "CF84072579",
+    "submission_url": "https://codeforces.com/contest/612/submission/84072579",
+    "tags": [
+      "combinatorics",
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "math",
+      "*2200"
+    ],
+    "timestamp": "Jun/17/2020 18:40"
+  },
   "CF84078442": {
     "contest_id": 1158,
     "language": "PyPy 3",
