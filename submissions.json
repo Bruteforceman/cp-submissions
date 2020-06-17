@@ -277,6 +277,24 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF84054771": {
+    "contest_id": 549,
+    "language": "PyPy 3",
+    "path": "codeforces/549/G.py",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Happy Line",
+    "problem_url": "https://codeforces.com/contest/549/problem/G",
+    "submission_id": "CF84054771",
+    "submission_url": "https://codeforces.com/contest/549/submission/84054771",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "sortings",
+      "*2200"
+    ],
+    "timestamp": "Jun/17/2020 15:18"
+  },
   "CF84065805": {
     "contest_id": 1034,
     "language": "PyPy 3",
