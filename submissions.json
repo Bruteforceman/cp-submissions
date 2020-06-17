@@ -277,6 +277,24 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF84114313": {
+    "contest_id": 487,
+    "language": "PyPy 3",
+    "path": "codeforces/487/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Prefix Product Sequence",
+    "problem_url": "https://codeforces.com/contest/487/problem/C",
+    "submission_id": "CF84114313",
+    "submission_url": "https://codeforces.com/contest/487/submission/84114313",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "number theory",
+      "*2300"
+    ],
+    "timestamp": "Jun/18/2020 04:12"
+  },
   "CF84116428": {
     "contest_id": 226,
     "language": "PyPy 3",
