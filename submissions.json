@@ -277,6 +277,24 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF84117188": {
+    "contest_id": 134,
+    "language": "GNU C++11",
+    "path": "codeforces/134/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Swaps",
+    "problem_url": "https://codeforces.com/contest/134/problem/C",
+    "submission_id": "CF84117188",
+    "submission_url": "https://codeforces.com/contest/134/submission/84117188",
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "greedy",
+      "*2200"
+    ],
+    "timestamp": "Jun/18/2020 06:29"
+  },
   "CF84144487": {
     "contest_id": 792,
     "language": "GNU C++17",
