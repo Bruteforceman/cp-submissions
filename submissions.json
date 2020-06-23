@@ -277,6 +277,26 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF84823921": {
+    "contest_id": 1369,
+    "language": "PyPy 3",
+    "path": "codeforces/1369/E.py",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "DeadLee",
+    "problem_url": "https://codeforces.com/contest/1369/problem/E",
+    "submission_id": "CF84823921",
+    "submission_url": "https://codeforces.com/contest/1369/submission/84823921",
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "greedy",
+      "implementation",
+      "sortings",
+      "*2400"
+    ],
+    "timestamp": "Jun/23/2020 23:26"
+  },
   "CF84926208": {
     "contest_id": 936,
     "language": "PyPy 3",
