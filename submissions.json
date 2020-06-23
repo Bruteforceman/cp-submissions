@@ -277,6 +277,26 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF84800477": {
+    "contest_id": 1369,
+    "language": "PyPy 3",
+    "path": "codeforces/1369/D.py",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "TediousLee",
+    "problem_url": "https://codeforces.com/contest/1369/problem/D",
+    "submission_id": "CF84800477",
+    "submission_url": "https://codeforces.com/contest/1369/submission/84800477",
+    "tags": [
+      "dp",
+      "graphs",
+      "greedy",
+      "math",
+      "trees",
+      "*1900"
+    ],
+    "timestamp": "Jun/23/2020 21:21"
+  },
   "CF84823921": {
     "contest_id": 1369,
     "language": "PyPy 3",
