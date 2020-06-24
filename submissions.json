@@ -277,6 +277,24 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF84926208": {
+    "contest_id": 936,
+    "language": "PyPy 3",
+    "path": "codeforces/936/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Lock Puzzle",
+    "problem_url": "https://codeforces.com/contest/936/problem/C",
+    "submission_id": "CF84926208",
+    "submission_url": "https://codeforces.com/contest/936/submission/84926208",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "strings",
+      "*2300"
+    ],
+    "timestamp": "Jun/25/2020 03:20"
+  },
   "CF84929177": {
     "contest_id": 1028,
     "language": "PyPy 3",
