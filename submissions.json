@@ -277,6 +277,22 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF85633163": {
+    "contest_id": 1371,
+    "language": "PyPy 3",
+    "path": "codeforces/1371/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Magical Sticks",
+    "problem_url": "https://codeforces.com/contest/1371/problem/A",
+    "submission_id": "CF85633163",
+    "submission_url": "https://codeforces.com/contest/1371/submission/85633163",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jul/01/2020 19:41"
+  },
   "CF85641047": {
     "contest_id": 1371,
     "language": "PyPy 3",
