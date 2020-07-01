@@ -277,6 +277,27 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF85689253": {
+    "contest_id": 1371,
+    "language": "PyPy 3",
+    "path": "codeforces/1371/E1.py",
+    "platform": "Codeforces",
+    "problem_index": "E1",
+    "problem_name": "Asterism (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/1371/problem/E1",
+    "submission_id": "CF85689253",
+    "submission_url": "https://codeforces.com/contest/1371/submission/85689253",
+    "tags": [
+      "binary search",
+      "brute force",
+      "combinatorics",
+      "math",
+      "number theory",
+      "sortings",
+      "*1900"
+    ],
+    "timestamp": "Jul/01/2020 21:22"
+  },
   "CF85693975": {
     "contest_id": 1371,
     "language": "PyPy 3",
