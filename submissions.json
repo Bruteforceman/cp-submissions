@@ -277,6 +277,24 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF85652159": {
+    "contest_id": 1371,
+    "language": "PyPy 3",
+    "path": "codeforces/1371/D.py",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Grid-00100",
+    "problem_url": "https://codeforces.com/contest/1371/problem/D",
+    "submission_id": "CF85652159",
+    "submission_url": "https://codeforces.com/contest/1371/submission/85652159",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "*1600"
+    ],
+    "timestamp": "Jul/01/2020 20:10"
+  },
   "CF85689253": {
     "contest_id": 1371,
     "language": "PyPy 3",
