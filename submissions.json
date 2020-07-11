@@ -277,6 +277,25 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF86570641": {
+    "contest_id": 1372,
+    "language": "PyPy 3",
+    "path": "codeforces/1372/D.py",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Omkar and Circle",
+    "problem_url": "https://codeforces.com/contest/1372/problem/D",
+    "submission_id": "CF86570641",
+    "submission_url": "https://codeforces.com/contest/1372/submission/86570641",
+    "tags": [
+      "brute force",
+      "dp",
+      "games",
+      "greedy",
+      "*2100"
+    ],
+    "timestamp": "Jul/11/2020 22:07"
+  },
   "CF86671452": {
     "contest_id": 1380,
     "language": "PyPy 3",
