@@ -277,6 +277,24 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF86696816": {
+    "contest_id": 1380,
+    "language": "GNU C++11",
+    "path": "codeforces/1380/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Strange Addition",
+    "problem_url": "https://codeforces.com/contest/1380/problem/F",
+    "submission_id": "CF86696816",
+    "submission_url": "https://codeforces.com/contest/1380/submission/86696816",
+    "tags": [
+      "data structures",
+      "dp",
+      "matrices",
+      "*2600"
+    ],
+    "timestamp": "Jul/12/2020 23:43"
+  },
   "CF86784914": {
     "contest_id": 1108,
     "language": "GNU C++11",
