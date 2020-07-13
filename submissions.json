@@ -277,6 +277,23 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF86784914": {
+    "contest_id": 1108,
+    "language": "GNU C++11",
+    "path": "codeforces/1108/E2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E2",
+    "problem_name": "Array and Segments (Hard version)",
+    "problem_url": "https://codeforces.com/contest/1108/problem/E2",
+    "submission_id": "CF86784914",
+    "submission_url": "https://codeforces.com/contest/1108/submission/86784914",
+    "tags": [
+      "data structures",
+      "implementation",
+      "*2100"
+    ],
+    "timestamp": "Jul/14/2020 03:27"
+  },
   "CF86785858": {
     "contest_id": 1210,
     "language": "GNU C++11",
