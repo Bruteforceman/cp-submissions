@@ -277,6 +277,24 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF86819035": {
+    "contest_id": 883,
+    "language": "GNU C++11",
+    "path": "codeforces/883/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Berland Army",
+    "problem_url": "https://codeforces.com/contest/883/problem/B",
+    "submission_id": "CF86819035",
+    "submission_url": "https://codeforces.com/contest/883/submission/86819035",
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "greedy",
+      "*2600"
+    ],
+    "timestamp": "Jul/14/2020 16:07"
+  },
   "CF86824931": {
     "contest_id": 843,
     "language": "GNU C++11",
