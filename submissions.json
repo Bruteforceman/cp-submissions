@@ -277,6 +277,26 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF86824931": {
+    "contest_id": 843,
+    "language": "GNU C++11",
+    "path": "codeforces/843/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Upgrading Tree",
+    "problem_url": "https://codeforces.com/contest/843/problem/C",
+    "submission_id": "CF86824931",
+    "submission_url": "https://codeforces.com/contest/843/submission/86824931",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "math",
+      "trees",
+      "*2600"
+    ],
+    "timestamp": "Jul/14/2020 17:23"
+  },
   "CF86945448": {
     "contest_id": 356,
     "language": "GNU C++11",
