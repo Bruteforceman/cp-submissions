@@ -277,6 +277,25 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF86945448": {
+    "contest_id": 356,
+    "language": "GNU C++11",
+    "path": "codeforces/356/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Bags and Coins",
+    "problem_url": "https://codeforces.com/contest/356/problem/D",
+    "submission_id": "CF86945448",
+    "submission_url": "https://codeforces.com/contest/356/submission/86945448",
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "dp",
+      "greedy",
+      "*2700"
+    ],
+    "timestamp": "Jul/16/2020 03:49"
+  },
   "CF86946442": {
     "contest_id": 1070,
     "language": "GNU C++11",
