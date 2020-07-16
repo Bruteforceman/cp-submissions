@@ -277,6 +277,25 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF87006197": {
+    "contest_id": 1361,
+    "language": "GNU C++17",
+    "path": "codeforces/1361/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "James and the Chase",
+    "problem_url": "https://codeforces.com/contest/1361/problem/E",
+    "submission_id": "CF87006197",
+    "submission_url": "https://codeforces.com/contest/1361/submission/87006197",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "probabilities",
+      "trees",
+      "*3000"
+    ],
+    "timestamp": "Jul/16/2020 22:03"
+  },
   "CF87022845": {
     "contest_id": 1361,
     "language": "GNU C++11",
