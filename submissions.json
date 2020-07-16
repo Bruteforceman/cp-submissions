@@ -277,6 +277,24 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF87022845": {
+    "contest_id": 1361,
+    "language": "GNU C++11",
+    "path": "codeforces/1361/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Johnny and New Toy",
+    "problem_url": "https://codeforces.com/contest/1361/problem/F",
+    "submission_id": "CF87022845",
+    "submission_url": "https://codeforces.com/contest/1361/submission/87022845",
+    "tags": [
+      "data structures",
+      "implementation",
+      "math",
+      "*3300"
+    ],
+    "timestamp": "Jul/17/2020 02:11"
+  },
   "CF87095988": {
     "contest_id": 1385,
     "language": "GNU C++11",
