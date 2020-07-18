@@ -277,6 +277,25 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF87263278": {
+    "contest_id": 1103,
+    "language": "GNU C++11",
+    "path": "codeforces/1103/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Johnny Solving",
+    "problem_url": "https://codeforces.com/contest/1103/problem/C",
+    "submission_id": "CF87263278",
+    "submission_url": "https://codeforces.com/contest/1103/submission/87263278",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "math",
+      "*2700"
+    ],
+    "timestamp": "Jul/19/2020 02:39"
+  },
   "CF87263884": {
     "contest_id": 1291,
     "language": "GNU C++11",
