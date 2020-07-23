@@ -277,6 +277,27 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF87770220": {
+    "contest_id": 1387,
+    "language": "GNU C++11",
+    "path": "codeforces/1387/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Graph",
+    "problem_url": "https://codeforces.com/contest/1387/problem/A",
+    "submission_id": "CF87770220",
+    "submission_url": "https://codeforces.com/contest/1387/submission/87770220",
+    "tags": [
+      "*special problem",
+      "binary search",
+      "dfs and similar",
+      "dp",
+      "math",
+      "ternary search",
+      "*2100"
+    ],
+    "timestamp": "Jul/23/2020 18:24"
+  },
   "CF87772016": {
     "contest_id": 1387,
     "language": "GNU C++11",
