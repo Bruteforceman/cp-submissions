@@ -277,6 +277,24 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF87774212": {
+    "contest_id": 1387,
+    "language": "GNU C++11",
+    "path": "codeforces/1387/B2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B2",
+    "problem_name": "Village (Maximum)",
+    "problem_url": "https://codeforces.com/contest/1387/problem/B2",
+    "submission_id": "CF87774212",
+    "submission_url": "https://codeforces.com/contest/1387/submission/87774212",
+    "tags": [
+      "*special problem",
+      "dfs and similar",
+      "trees",
+      "*2500"
+    ],
+    "timestamp": "Jul/23/2020 19:03"
+  },
   "CF87884085": {
     "contest_id": 1383,
     "language": "GNU C++11",
