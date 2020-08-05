@@ -277,6 +277,27 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF89058610": {
+    "contest_id": 1399,
+    "language": "GNU C++11",
+    "path": "codeforces/1399/E2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E2",
+    "problem_name": "Weights Division (hard version)",
+    "problem_url": "https://codeforces.com/contest/1399/problem/E2",
+    "submission_id": "CF89058610",
+    "submission_url": "https://codeforces.com/contest/1399/submission/89058610",
+    "tags": [
+      "binary search",
+      "dfs and similar",
+      "greedy",
+      "sortings",
+      "trees",
+      "two pointers",
+      "*2200"
+    ],
+    "timestamp": "Aug/05/2020 23:33"
+  },
   "CF89061235": {
     "contest_id": 1399,
     "language": "GNU C++11",
