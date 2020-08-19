@@ -277,6 +277,24 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF90401506": {
+    "contest_id": 1375,
+    "language": "Java 11",
+    "path": "codeforces/1375/D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Replace by MEX",
+    "problem_url": "https://codeforces.com/contest/1375/problem/D",
+    "submission_id": "CF90401506",
+    "submission_url": "https://codeforces.com/contest/1375/submission/90401506",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "sortings",
+      "*1900"
+    ],
+    "timestamp": "Aug/19/2020 21:22"
+  },
   "CF90403503": {
     "contest_id": 1375,
     "language": "Java 11",
