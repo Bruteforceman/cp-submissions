@@ -277,6 +277,24 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF90403503": {
+    "contest_id": 1375,
+    "language": "Java 11",
+    "path": "codeforces/1375/E.java",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Inversion SwapSort",
+    "problem_url": "https://codeforces.com/contest/1375/problem/E",
+    "submission_id": "CF90403503",
+    "submission_url": "https://codeforces.com/contest/1375/submission/90403503",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "sortings",
+      "*2500"
+    ],
+    "timestamp": "Aug/19/2020 21:46"
+  },
   "CF90413750": {
     "contest_id": 1375,
     "language": "Java 11",
