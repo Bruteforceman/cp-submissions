@@ -277,6 +277,29 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF90626348": {
+    "contest_id": 1401,
+    "language": "Java 11",
+    "path": "codeforces/1401/D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Maximum Distributed Tree",
+    "problem_url": "https://codeforces.com/contest/1401/problem/D",
+    "submission_id": "CF90626348",
+    "submission_url": "https://codeforces.com/contest/1401/submission/90626348",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "greedy",
+      "implementation",
+      "math",
+      "number theory",
+      "sortings",
+      "trees",
+      "*1800"
+    ],
+    "timestamp": "Aug/22/2020 00:01"
+  },
   "CF90626371": {
     "contest_id": 1401,
     "language": "Java 11",
