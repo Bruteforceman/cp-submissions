@@ -277,6 +277,23 @@
     ],
     "timestamp": "Jan/09/2021 20:03"
   },
+  "CF98293401": {
+    "contest_id": 1438,
+    "language": "PyPy 3",
+    "path": "codeforces/1438/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Specific Tastes of Andre ",
+    "problem_url": "https://codeforces.com/contest/1438/problem/A",
+    "submission_id": "CF98293401",
+    "submission_url": "https://codeforces.com/contest/1438/submission/98293401",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Nov/13/2020 20:49"
+  },
   "CF98296252": {
     "contest_id": 1438,
     "language": "PyPy 3",
