@@ -1,4 +1,20 @@
 {
+  "CF103586262": {
+    "contest_id": 1227,
+    "language": "GNU C++17",
+    "path": "codeforces/1227/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Messy",
+    "problem_url": "https://codeforces.com/contest/1227/problem/C",
+    "submission_id": "CF103586262",
+    "submission_url": "https://codeforces.com/contest/1227/submission/103586262",
+    "tags": [
+      "constructive algorithms",
+      "*1700"
+    ],
+    "timestamp": "Jan/07/2021 03:37"
+  },
   "CF103623739": {
     "contest_id": 1472,
     "language": "GNU C++17",
