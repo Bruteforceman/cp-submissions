@@ -1,4 +1,21 @@
 {
+  "CF103705502": {
+    "contest_id": 863,
+    "language": "GNU C++17",
+    "path": "codeforces/863/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Yet Another Array Queries Problem",
+    "problem_url": "https://codeforces.com/contest/863/problem/D",
+    "submission_id": "CF103705502",
+    "submission_url": "https://codeforces.com/contest/863/submission/103705502",
+    "tags": [
+      "data structures",
+      "implementation",
+      "*1800"
+    ],
+    "timestamp": "Jan/08/2021 16:39"
+  },
   "CF103877800": {
     "contest_id": 581,
     "language": "GNU C++17",
