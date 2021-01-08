@@ -1,4 +1,20 @@
 {
+  "CF103704173": {
+    "contest_id": 157,
+    "language": "GNU C++17",
+    "path": "codeforces/157/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Game Outcome",
+    "problem_url": "https://codeforces.com/contest/157/problem/A",
+    "submission_id": "CF103704173",
+    "submission_url": "https://codeforces.com/contest/157/submission/103704173",
+    "tags": [
+      "brute force",
+      "*800"
+    ],
+    "timestamp": "Jan/08/2021 16:21"
+  },
   "CF103705502": {
     "contest_id": 863,
     "language": "GNU C++17",
